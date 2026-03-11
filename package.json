@@ -1,26 +1,8 @@
 {
-<<<<<<< HEAD
   "name": "molty-patched",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": { "start": "node server.js" },
   "engines": { "node": ">=18.0.0" },
   "dependencies": { "express": "^4.18.2" }
-=======
-  "name": "molty-proxy",
-  "version": "1.0.0",
-  "description": "Reverse proxy for moltyroyale.com with geo-bypass",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "http-proxy-middleware": "^3.0.3"
-  }
->>>>>>> a0761d4613d0f4eea3d7a85e2fb70ca1eafd42a8
 }
